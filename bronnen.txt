@@ -1,0 +1,28 @@
+Reflectie bij video
+
+https://www.youtube.com/watch?v=iwUR0kOVNs8
+
+De spreker in de video verteld op een humoristische manier over zijn kronkelige weg vol hindernissen die hem uiteindelijk naar de overtuiging dat testen schrijven extreem belangrijk is.
+
+e spreker in de video vertelt op een humoristische manier over zijn kronkelige weg vol hindernissen die hem uiteindelijk naar de overtuiging bracht dat testen schrijven extreem belangrijk is.
+De spreker geeft aan dat wanneer je code schrijft die werkt, maar die niet gebaseerd is op TDD, de code nog altijd niet volwaardig is. Hij benadrukt wel twintig keer het belang van testen.
+
+Hij geeft ook aan dat het in het begin niet comfortabel is om eerst testen te schrijven en daarna pas te kunnen coderen, maar dat dit na veel discipline en doorzettingsvermogen wel de moeite waard is.
+
+Een ander interessant punt dat de spreker aankaart, is dat je in de testen moet beschrijven wat de code moet doen, niet hoe de code werkt. Daardoor begin je vanuit het belang van de eindgebruiker, evenals de stabiliteit van de code. Je wil dat de code bugproof en stabiel is en je wil ook dat je in eerste instantie mag en kan ‘dromen’ over het gewenste resultaat.
+
+Als je meteen gaat denken in functionaliteit, dan ga je limieten opleggen. Je kan beter beginnen vanuit het schrijven van testen voor het eindresultaat en daar naartoe coderen, en niet andersom.
+
+Wat ik zeker ook mooi vind, is dat hij zijn menselijke gevoelens en ervaringen een apart moment geeft om te bespreken en deze zeer bewust benadrukt. Dat is mooi. Hij is zelf de manager van een devteam en enorm overtuigd van het ‘altijd testen’. Het feit dat een manager niet alleen zijn visie weet te promoten, maar ook de menselijkheid en zijn eigen ervaringen tijdens het proces van het leren hiervan weet over te brengen, is een zeer inspirerende en kwalitatieve eigenschap in een leidende positie.
+
+Het is ook goed om het videootje “Test all the f***ing time” te noemen en niet “Test all the time”. Ook dat houdt het menselijk en geeft ruimte voor goedbedoelde frustratie, dewelke simpelweg vrijwel altijd om de hoek komt kijken tijdens een grote hoeveelheid discipline, inspanning, vastberadenheid en passie.
+
+Zeker ook gewaagd om foto’s van zijn eigen gezin te gebruiken, maar ook dit maakt het menselijk en maakt de spreker ook heel relatable.
+
+Ik ben zelf nog niet met de testingmodules waarover hij spreekt in aanraking gekomen (veel Ruby on Rails), dus ik kan niet echt meepraten over RSpec en dergelijke. Ik heb enkel ervaring met JUnit en pytest.
+
+Hij benoemt daarentegen wel “use what works best for you” en “flavor of the month” als verwijzing naar andere testmodules. Het gaat dus ook niet zozeer om hoe je test, maar vooral om de TDD-gewoonte.
+
+Tot slot vind ik de quote “Do not try to imitate the old masters. Seek what they sought” extreem inspirerend. Dat is een hele andere manier van vraagstelling naar geleerde mensen toe. Je vraagt niet per se “hoe doe je het”, maar “wat zocht je op het pad naar de bestemming waar je ondertussen bent gearriveerd?” of “wat hield je gaande tijdens je proces tot nu toe en de zaken die je in het heden hebt bereikt?”. Zeer mooi.
+
+Ik vond het een zeer leerzaam filmpje waarin de spreker het belang van TDD op een inspirerende, niet-drillende manier heeft geserveerd, met een gratis superlifequote als dessert.

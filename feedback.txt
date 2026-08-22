@@ -1,6 +1,15 @@
-Hallo daan
+Hallo Daan,
 
-Ik ben Cedric Kivits, 31 jaar en studeer Toegepaste Informatica aan UCLL.
-Deze zomer focus ik mij op programming 2 en het introductieproject.
-Tevens ben ik bezig met de switch naar mijn eerste IT job! Mooie vooruitzichten dus.
+Ik stuur je deze mail om wat feedback te geven over het introductieproject, en dan specifiek over de folder programming-challenge. Ik heb de opdrachten ondertussen doorlopen en wilde graag delen hoe ik dit onderdeel heb ervaren.
 
+In het begin vond ik de programming challenges leuk om te maken. De manier waarop de oefeningen zijn opgebouwd en de verschillende kleine uitdagingen maken het naar mijn mening een creatieve manier om de leerstof te herhalen. Het voelde in eerste instantie ook leuker aan dan simpelweg theorie opnieuw door te nemen, omdat je actief bezig bent met programmeren en telkens een concreet probleem moet oplossen.
+
+Naarmate ik verder kwam, merkte ik echter dat mijn motivatie wat begon af te nemen. Voor mijn gevoel is het onderdeel vooral te lang. Na een tijdje kreeg ik een beetje hetzelfde gevoel als bij het oefenen van theorievragen voor een rijexamen: afzonderlijk zijn de vragen prima, maar wanneer je er veel achter elkaar moet doen, wordt het vooral een kwestie van ze afwerken. Daardoor verdween voor mij een deel van het speelse karakter dat de programming challenges in het begin juist hadden.
+
+Ik denk daarom dat dit onderdeel sterker zou zijn als het wat korter was. Bijvoorbeeld door een aantal oefeningen weg te laten of bepaalde concepten in iets grotere opdrachten te combineren. Dan blijft het creatieve idee achter de challenges behouden, maar voelt het minder langdradig aan en denk ik dat de motivatie om de oefeningen echt aandachtig te maken ook hoger blijft.
+
+Over het algemeen vind ik het introductieproject duidelijk en creatief in elkaar gestoken. Vooral het idee achter de programming challenges vind ik goed.
+
+Met vriendelijke groet,
+
+Cedric Kivits

@@ -1,0 +1,12 @@
+Beste Daan,
+
+Allereerst aangenaam. Ik ben Cedric Kivits, een student van het afstandsonderwijs Toegepaste Informatica.
+Ik ben onlangs begonnen met het introductieproject waar ik examen voor ga doen in het 5de examenblok.
+Ik ben met de challenges bezig en zit nu bij “hash” in de folder “crack”.
+
+Ik denk dat deze challenge bewust is geïmplementeerd om de student aan te zetten om een mail naar u op te stellen om hulp te vragen (zoals dit ook verwacht wordt vanuit het OPO om minstens 1 keer een mail met vraag naar u te sturen).
+Ik heb al geprobeerd om aan ChatGPT te vragen wat ik het beste kan doen (dewelke mij een python script gaf dat blijkbaar veel te lang duurt om op mijn macbook air draaiende te houden voordat deze het antwoord genereert en liet vs code me dit überhaupt ook niet toe).
+Bij deze wil ik dus vragen of het de bedoeling is om een tool te gebruiken zoals hashcat om hier het antwoord op te vinden.
+
+Alvast vriendelijk bedankt voor uw respons en met vriendelijke groet,
+Cedric Kivits

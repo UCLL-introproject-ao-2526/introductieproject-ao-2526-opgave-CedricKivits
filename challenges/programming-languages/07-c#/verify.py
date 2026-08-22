@@ -3,7 +3,7 @@ import pathlib
 import urllib.request
 from functools import cache
 import json
-
+from urllib.parse import quote
 
 url = "http://challenges.leone.ucll.be"
 
@@ -31,7 +31,7 @@ def load_solution():
 
 def derive_url():
     path = determine_relative_path()
-    return f"{url}/{path}"
+    return f"{url}/{quote(path, safe='/')}"
 
 def create_request_payload():
     solution = load_solution()

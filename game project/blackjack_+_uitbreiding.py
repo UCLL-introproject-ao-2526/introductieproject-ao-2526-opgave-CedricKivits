@@ -32,13 +32,17 @@ results = ['', 'PLAYER BUSTED o_O', 'Player WINS! :)', 'ENEMY WINS :(', 'TIE GAM
 
 player_hp = 100
 
+# [dn] als je het op deze manier schrijft, ga je altijd moet onthouwen dat '1' 'Orc' is
+# ORC_INDEX = 1 is een stuk duidelijker waar je het gebruik, en maakt je leven ook makkelijker ;)
 enemies = ['Goblin', 'Orc', 'Dragon']
 enemy_health = [100, 120, 150]
 
+# [dn] number in het engels wordt eerder gezien als 'aantal'. Gebruik beter 'index', dat is een plaats in een verzameling (kort door de bocht)
 enemy_number = 0
 enemy_name = enemies[enemy_number]
 enemy_hp = enemy_health[enemy_number]
 
+# [dn] hiervoor gebruikte je een array, en nu plots niet? 1 van de 2 is beter, maar het belangrijkste is consistentie (want het is voorspelbaar)
 goblin_defeated = False
 orc_defeated = False
 dragon_defeated = False
@@ -65,6 +69,7 @@ def draw_health():
 
 
 def draw_enemy_status():
+    # [dn] kan korter met een loop, als je je arrays gebruikt
     if goblin_defeated:
         goblin_text = 'Goblin: DEFEATED'
     else:
@@ -87,6 +92,9 @@ def draw_enemy_status():
 
 def draw_cards(player, dealer, reveal):
     for i in range(len(player)):
+        # [dn] je hergebruikt hier een paar variabele heel vaak. Specifiek 70. Dat is geen willekeurig getal
+        # Steek het in een variabele, dan heb je een naam met een betekenis, en als je ooit een andere 
+        # waarde nodig hebt moet je het maar aanpassen op 1 plek. 
         pygame.draw.rect(screen, 'white', [70 + (70 * i), 460 + (5 * i), 120, 220], 0, 5)
         screen.blit(font.render(player[i], True, 'black'), (75 + 70 * i, 465 + 5 * i))
         screen.blit(font.render(player[i], True, 'black'), (75 + 70 * i, 635 + 5 * i))
@@ -190,7 +198,7 @@ def check_endgame(hand_act, deal_score, play_score, result, totals, add):
 
         if play_score > 21:
             result = 1
-
+# [dn] je whitespace (lege regels) maken het hier minder leesbaar, niet meer.
         elif deal_score < play_score <= 21 or deal_score > 21:
             result = 2
 

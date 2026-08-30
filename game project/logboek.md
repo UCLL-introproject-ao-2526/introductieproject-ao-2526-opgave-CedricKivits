@@ -130,3 +130,8 @@ De basis van de tutorial is nog steeds duidelijk herkenbaar, maar het spel heeft
 Na het verslaan van de Dragon verschijnt `KINGDOM SAVED!`.
 
 Ik ben tevreden met de uitbreiding omdat ze relatief eenvoudig is gebleven, maar het spel toch een duidelijk ander doel heeft gekregen dan de originele Blackjack-versie. Tijdens het maken heb ik vooral meer inzicht gekregen in hoe de game-loop, globale variabelen, voorwaarden en functies samen de toestand van een game bijhouden.
+
+## 29 Augustus 2026
+Feedback van leerkracht ontvangen. 
+
+vaste indices voor Goblin/Orc/Dragon, enemy_number → enemy_index, de drie defeated-booleans samengevoegd in één lijst, draw_enemy_status() met een loop, de herhaalde waarde 70 in draw_cards() in een variabele gezet, en de overbodige whitespace in het aangeduide if/elif-gedeelte weggehaald

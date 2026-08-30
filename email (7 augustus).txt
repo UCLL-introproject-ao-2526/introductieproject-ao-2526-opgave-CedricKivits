@@ -1,0 +1,32 @@
+Beste Daan,
+
+Allereerst aangenaam. Ik ben Cedric Kivits, een student van het afstandsonderwijs Toegepaste Informatica.
+Ik ben onlangs begonnen met het introductieproject waar ik examen voor ga doen in het 5de examenblok.
+Ik ben met de challenges bezig en zit nu bij “hash” in de folder “crack”.
+
+Ik denk dat deze challenge bewust is geïmplementeerd om de student aan te zetten om een mail naar u op te stellen om hulp te vragen (zoals dit ook verwacht wordt vanuit het OPO om minstens 1 keer een mail met vraag naar u te sturen).
+Ik heb al geprobeerd om aan ChatGPT te vragen wat ik het beste kan doen (dewelke mij een python script gaf dat blijkbaar veel te lang duurt om op mijn macbook air draaiende te houden voordat deze het antwoord genereert en liet vs code me dit überhaupt ook niet toe).
+Bij deze wil ik dus vragen of het de bedoeling is om een tool te gebruiken zoals hashcat om hier het antwoord op te vinden.
+
+Alvast vriendelijk bedankt voor uw respons en met vriendelijke groet,
+Cedric Kivits
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Antwoord op 26/8
+
+Hey Cedric, 
+
+😄,
+
+Nee, 'crack' is niet ontworpen zodat je mij zou contacteren, maar ik denk dat het voor de meeste mensen wel noodzakelijk is. Het is geen makkelijke challenge, en zeker ook niet iets wat ik verwacht dat iedereen in het introductieproject lukt om op te lossen (maar er zijn zeker wel mensen die er geraken).
+
+Dus het idee is dat je het origineel vind, door alle combinaties te proberen van wat het kan zijn. ChatGPT heeft gelijk, je kan daar een script lokaal voor gebruiken. ChatGPT heeft ongelijk, want je zou dat wel efficient moeten coderen om er te geraken (wat met een simpel python script niet zo gaat zijn). Nu, ik verwacht niet dat je zoiets kan schrijven, dus misschien kan je eens online kijken of iemand het probleem al eens heeft opgelost? 
+
+Laat maar weten als je een sterkere hint wilt
+/D
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Het is me ondertussen gelukt om het via een script in python te gebruiken. 
+Leuk om te weten dat er meerdere mogelijkheden zijn.

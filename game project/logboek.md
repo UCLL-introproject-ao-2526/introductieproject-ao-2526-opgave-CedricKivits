@@ -135,3 +135,7 @@ Ik ben tevreden met de uitbreiding omdat ze relatief eenvoudig is gebleven, maar
 Feedback van leerkracht ontvangen. 
 
 vaste indices voor Goblin/Orc/Dragon, enemy_number → enemy_index, de drie defeated-booleans samengevoegd in één lijst, draw_enemy_status() met een loop, de herhaalde waarde 70 in draw_cards() in een variabele gezet, en de overbodige whitespace in het aangeduide if/elif-gedeelte weggehaald
+
+## 1 September 2026
+Het was de bedoeling om op de feedback te reflecteren en het was niet noodzakelijk om de feedback te implementeren.
+Ik vond het echter toch constructieve feedback al dus heb ik mijn project aangepast op basis hiervan. 
